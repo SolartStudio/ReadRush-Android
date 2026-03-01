@@ -1,10 +1,11 @@
 # ReadRush
 
+📱 [Download on Google Play](https://play.google.com/store/apps/details?id=com.readrush.app)
 Android speed reading application built with Kotlin and Jetpack Compose.
 
 ## Overview
 
-ReadRush is a product-oriented MVP designed to improve reading speed through dynamic word-by-word playback and real-time speed control.
+ReadRush is a product-oriented  designed to improve reading speed through dynamic word-by-word playback and real-time speed control.
 
 The application supports TXT, EPUB, and FB2 formats and includes a custom speed control mechanism built specifically for smooth interaction and stable gesture handling.
 
