@@ -31,3 +31,11 @@ The application supports TXT, EPUB, and FB2 formats and includes a custom speed 
 - Resolved interaction conflicts between tap and rotation gestures
 - Built a dynamic playback engine with real-time speed updates
 - Designed a stable UI architecture for continuous reading flow
+
+ ## 📱 Screenshots
+
+<p align="center">
+  <img src="screenshotslibrary.jpg" width="250"/>
+  <img src="screenshotsreader.jpg" width="250"/>
+  <img src="screenshotsspeed-control.jpg" width="250"/>
+</p>
